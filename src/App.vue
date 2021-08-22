@@ -1,5 +1,5 @@
 <template>
-  <v-app style="background: #000">
+  <v-app style="background: #292c3b">
     <topBar />
     <router-view style="margin-top: 80px" />
   </v-app>
@@ -12,3 +12,6 @@ export default {
   data: () => ({}),
 };
 </script>
+
+<style lang="scss" src="./typography/style.scss">
+</style>
