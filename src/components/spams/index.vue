@@ -1,6 +1,13 @@
 <template>
   <div>
-    <v-snackbar v-model="snackbar" top right color="#9834e5">
+    <v-snackbar
+      v-model="snackbar"
+      top
+      right
+      style="top: 10px"
+      transition="scroll-x-reverse-transition"
+      color="#9834e5"
+    >
       Texto copiado!
 
       <template v-slot:action="{ attrs }">

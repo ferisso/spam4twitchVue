@@ -5,7 +5,7 @@
       <h1 class="titulo" style="color: #9834e5">Twitch</h1>
     </div>
     <div class="centralized">
-      <p style="color: white">
+      <p style="color: white; text-align: center">
         Melhor site de personalização de spams 🤮 para Twitch. 🙏🙏🙏
       </p>
     </div>
