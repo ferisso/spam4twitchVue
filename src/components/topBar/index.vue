@@ -11,9 +11,6 @@
 </template>
 
 <script>
-export default {
-  name: "topBar",
-};
 </script>
 
 <style lang="scss" src="./style.scss">

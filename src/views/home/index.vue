@@ -21,16 +21,7 @@
   </div>
 </template>
 
-<script>
-import spams from "../../components/spams/";
-export default {
-  components: { spams },
-  data() {
-    return {
-      input: "",
-    };
-  },
-};
+<script src="./script.js">
 </script>
 
 <style lang="scss" src="./style.scss">
